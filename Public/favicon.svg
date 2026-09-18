@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#671018"/>
+  <circle cx="50" cy="50" r="42" stroke="#D97706" stroke-width="2" stroke-dasharray="4 2"/>
+  <text x="50" y="62" font-family="'Playfair Display', serif" font-weight="bold" font-size="42" fill="#FAF7F2" text-anchor="middle">V</text>
+</svg>
